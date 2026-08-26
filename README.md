@@ -21,6 +21,18 @@ The aim is to develop students who can build reliable, useful things with data t
 
 These are working design documents intended to evolve as the second-year curriculum is developed.
 
+## Rendering
+
+The curriculum documents render to PDF with [Quarto](https://quarto.org/). From the
+repository root, run:
+
+```bash
+quarto render
+```
+
+The PDFs are written to the ignored `output/` directory. A TeX distribution is
+required; Quarto's TinyTeX is sufficient.
+
 ## Version control
 
 This repository versions authored source and the configuration needed to reproduce

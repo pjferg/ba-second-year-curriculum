@@ -1,0 +1,13 @@
+project:
+  type: default
+  output-dir: output
+  render:
+    - docs/01-software-development-and-operations.md
+    - docs/02-data-engineering-and-data-preparation.md
+    - docs/03-applied-analytics-for-business-decision-making.md
+
+format:
+  pdf:
+    toc: true
+    number-sections: true
+
