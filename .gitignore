@@ -1,1 +1,54 @@
+# Operating-system and editor files
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Rendered documents and build products
+*.html
+*.pdf
+*.docx
+*.pptx
+*_files/
+/.quarto/
+/_book/
+/_site/
+/build/
+/dist/
+/output/
+/outputs/
+
+# Generated analysis products
+/data/
+/figures/
+/results/
+/tables/
+
+# R session state and local package files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# JavaScript dependencies
+node_modules/
+
+# Local configuration and secrets (a template may be versioned)
+.env
+.env.*
+!.env.example

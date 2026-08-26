@@ -20,3 +20,9 @@ The aim is to develop students who can build reliable, useful things with data t
 2. **Applied Analytics for Business Decision Making:** build and operationalise the analytical solution.
 
 These are working design documents intended to evolve as the second-year curriculum is developed.
+
+## Version control
+
+The repository versions authored source and reproducibility configuration, not data,
+rendered documents or other generated outputs. See
+[`VERSION_CONTROL.md`](VERSION_CONTROL.md) for the lightweight contribution workflow.
