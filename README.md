@@ -11,13 +11,15 @@ The aim is to develop students who can build reliable, useful things with data t
 ## Documents
 
 - [`docs/01-software-development-and-operations.md`](docs/01-software-development-and-operations.md) — overarching philosophy and core technical capabilities.
-- [`docs/02-data-engineering-and-data-preparation.md`](docs/02-data-engineering-and-data-preparation.md) — proposed direction for the first second-year subject.
-- [`docs/03-applied-analytics-for-business-decision-making.md`](docs/03-applied-analytics-for-business-decision-making.md) — proposed direction for the second second-year subject.
+- [`docs/02-building-business-data-pipelines.md`](docs/02-building-business-data-pipelines.md) — proposal for CMCE20001.
+- [`docs/03-building-business-analytics-solutions.md`](docs/03-building-business-analytics-solutions.md) — proposal for CMCE20002.
 
-## Curriculum progression
+## Complementary subjects
 
-1. **Data Engineering & Data Preparation:** build the reliable data infrastructure.
-2. **Applied Analytics for Business Decision Making:** build and operationalise the analytical solution.
+- **Building Business Data Pipelines:** build reliable pipelines from raw business data using SQL and Python.
+- **Building Business Analytics Solutions:** build reliable decision tools from prepared data using R and Shiny.
+
+Together, the subjects cover the path from raw data sources to a usable analytical product. They are designed so that students may take either subject first; each independently introduces the shared development practices it requires.
 
 These are working design documents intended to evolve as the second-year curriculum is developed.
 
